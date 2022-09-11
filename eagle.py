@@ -30,7 +30,7 @@ mdp.place(x=338,y=215)
 identifiantEntry=Entry(logo,width=50,relief=FLAT,font=('arial',12))
 identifiantEntry.place(x=175,y=150)
 
-mdpEntry=Entry(logo,width=50,relief=FLAT,font=('arial',12))
+mdpEntry=Entry(logo,width=50,show='*',relief=FLAT,font=('arial',12))
 mdpEntry.place(x=175,y=250)
 ###################fin de l'interface##################
 ##################"CONNEXION"#######################
